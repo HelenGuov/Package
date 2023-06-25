@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7vjw0d5PoEZw6wiE1GfuPn0PN4K6I9DW07E7obpBk4WNILJ1al2BO0ZScrocgae3YhnbT8MDvEumYxu/EiUhA==",
+  "success": true,
+  "projectFilePath": "/Users/helenguov/Documents/CodePlayground/Package/Package/Package/Package.csproj",
+  "expectedPackageFiles": [
+    "/Users/helenguov/.nuget/packages/csharpfunctionalextensions/2.39.2/csharpfunctionalextensions.2.39.2.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.logging.configuration/7.0.0/microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.logging.console/7.0.0/microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/helenguov/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

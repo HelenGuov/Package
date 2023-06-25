@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24726e49_002D3670_002D42cf_002D9dab_002Daa196263ad4a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.ApiServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.EventProcessorServiceTest.StartEvent&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.EventProcessorServiceTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39e3bb51_002D68fa_002D47c4_002D9711_002Dacd6ac060368/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.ApiServiceTest.ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=77e625d8_002D9f43_002D455a_002Db919_002D3b84f89995a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.ApiServiceTest.ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82cb4be0_002D22e9_002D4939_002Daa2d_002D6b2afef4673a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A0DE7CC2-10A3-4FA5-93AC-F7BE70325906::net6.0::EventAPIProcessor.Test.ApiServiceTest.ParseResponse_GivenInvalidJsonResult_ThenShouldReturnResultError&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

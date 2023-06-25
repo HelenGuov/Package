@@ -1,0 +1,12 @@
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.csproj.AssemblyReference.cache
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.AssemblyInfoInputs.cache
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.AssemblyInfo.cs
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.csproj.CoreCompileInputs.cache
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/bin/Debug/net6.0/EventAPIProcessor.deps.json
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/bin/Debug/net6.0/EventAPIProcessor.dll
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/bin/Debug/net6.0/ref/EventAPIProcessor.dll
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/bin/Debug/net6.0/EventAPIProcessor.pdb
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.dll
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/ref/EventAPIProcessor.dll
+/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/Debug/net6.0/EventAPIProcessor.pdb

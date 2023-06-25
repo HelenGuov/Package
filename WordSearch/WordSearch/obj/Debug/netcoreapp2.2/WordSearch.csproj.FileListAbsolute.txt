@@ -1,0 +1,13 @@
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.csproj.AssemblyReference.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.AssemblyInfoInputs.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.AssemblyInfo.cs
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.csproj.CoreCompileInputs.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.deps.json
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.runtimeconfig.json
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.runtimeconfig.dev.json
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/netcoreapp2.2/WordSearch.pdb
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.pdb
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/netcoreapp2.2/WordSearch.genruntimeconfig.cache

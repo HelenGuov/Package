@@ -1,0 +1,15 @@
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.deps.json
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.runtimeconfig.json
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/ref/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/bin/Debug/net6.0/WordSearch.pdb
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.csproj.AssemblyReference.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.AssemblyInfoInputs.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.AssemblyInfo.cs
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.csproj.CoreCompileInputs.cache
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/ref/WordSearch.dll
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.pdb
+/Users/helenguov/Documents/CodePlayground/WordSearch/WordSearch/obj/Debug/net6.0/WordSearch.genruntimeconfig.cache

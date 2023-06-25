@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor.Test/EventAPIProcessor.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor.Test/EventAPIProcessor.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor.Test/EventAPIProcessor.Test.csproj",
+        "projectName": "EventAPIProcessor.Test",
+        "projectPath": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor.Test/EventAPIProcessor.Test.csproj",
+        "packagesPath": "/Users/helenguov/.nuget/packages/",
+        "outputPath": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/helenguov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/EventAPIProcessor.csproj": {
+                "projectPath": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/EventAPIProcessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.39.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/EventAPIProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/EventAPIProcessor.csproj",
+        "projectName": "EventAPIProcessor",
+        "projectPath": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/EventAPIProcessor.csproj",
+        "packagesPath": "/Users/helenguov/.nuget/packages/",
+        "outputPath": "/Users/helenguov/Documents/CodePlayground/Package/Package/EventAPIProcessor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/helenguov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.39.2, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
